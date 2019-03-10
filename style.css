@@ -1,6 +1,10 @@
 h1 {
-  color:blue;
+  color:black;
+  font-family: 'Rock Salt', cursive;
+  font-weight: 800px;
+  margin: 20px;
+  text-align: center;
 }
 img {
-  opacity: 0.4;
+  width:550px;
 }
