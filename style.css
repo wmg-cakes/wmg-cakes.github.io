@@ -1,5 +1,5 @@
 h1 {
-  color:black;
+  color:#ff99cc;
   font-family: 'Rock Salt', cursive;
   font-weight: 800px;
   margin: 20px;
@@ -7,4 +7,52 @@ h1 {
 }
 img {
   width:550px;
+}
+p, ol, ul {
+  color: #595959;
+}
+
+#intro {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.CCheads {
+  padding-left: 35px;
+  font-weight:bold
+}
+
+#CC {
+  padding:35px;
+  padding-bottom:45px;
+}
+
+#email {
+  padding-bottom: 35px;
+}
+
+
+#method{
+  padding-left:50px;
+  padding-right:150px;
+}
+
+ ol li{
+  padding: 5px 0px;
+}
+
+.btn-primary {
+  background-color:#ffb3d9;
+  border-color: #ffb3d9;
+}
+
+.btn-primary:hover {
+  background-color: #ffcce6;
+  border-color:#ffcce6;
+}
+
+
+
+#home {
+  text-align: center;
+  padding-bottom: 100px;
 }
