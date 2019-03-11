@@ -76,6 +76,9 @@ p, ol, ul {
   height:100px;
 }
 
+#link {
+  padding-top: 45px;
+}
 
 #home {
   text-align: center;
